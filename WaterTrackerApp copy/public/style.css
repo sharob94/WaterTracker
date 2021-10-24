@@ -1,0 +1,48 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image: url("background2.jpeg");
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position: center;
+  height:800px;
+
+}
+
+h1{
+  text-align: center;
+  color:darkblue;
+  margin-top: 4%;
+}
+h2{
+  text-align: center;
+  color:darkblue;
+  margin-top: 2%;
+  font-size: 1.5em;
+
+}
+label{
+  margin-left: 38.5%;
+  text-align: center;
+  color:darkblue;
+
+}
+p{
+  margin-top:1%;
+  text-align: center;
+  color:darkblue;
+
+}
+button{
+  color:white;
+  color:darkblue;
+  border-radius: 20%;
+}
+output.price-output{
+  color:darkblue;
+  padding: 0%;
+  text-align: center;
+  font-size:2em;
+}
+
+
